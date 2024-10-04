@@ -6,5 +6,6 @@ criaCartao(
      
   criaCartao(
     'matematica',
-'qual é a raiz quadrada de quarenta nove?',
-
+'qual é a raiz quadrada de 49?',
+'7'
+  )
