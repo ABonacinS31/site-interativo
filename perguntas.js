@@ -12,7 +12,7 @@ criaCartao(
 
   criaCartao(
 'tiktok'
-'oque é tiktok?'
+'oque é tiktok?',
 'é um aplicativo de compartilhamento de videos que permite aos usuários criar e compartilhar videos de 15 segundos'
   )
   
