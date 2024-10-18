@@ -16,3 +16,8 @@ criaCartao(
 'é um aplicativo de compartilhamento de videos que permite aos usuários criar e compartilhar videos de 15 segundos'
   )
   
+criaCartao(
+  'engenharia',
+  'qual é o principal objetivo da engenharia',
+  'planejar,desenhar,construir,manter,e melhorar estruturas,máquinas,aparelhos,sistemas,materiais e processos'
+)
