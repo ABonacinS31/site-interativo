@@ -9,8 +9,10 @@ criaCartao(
 'qual é a raiz quadrada de 49?',
 '7'
   )
+
+  criaCartao(
 'tiktok'
 'oque é tiktok?'
 'é um aplicativo de compartilhamento de videos que permite aos usuários criar e compartilhar videos de 15 segundos'
-
-
+  )
+  
